@@ -10,5 +10,11 @@ switch($arrayRequest['op']){
     case 'obtenerProductos':
         $arrayResponse = obtenerProductos($arrayRequest['data']);
         break;
+    case 'actualizarProducto':
+        $arrayResponse = actualizarProducto($arrayRequest['data']);
+        break;
+    case 'eliminarProducto':
+        $arrayResponse = eliminarProducto($arrayRequest['data']);
+        break;
 }
 echo json_encode($arrayResponse, JSON_UNESCAPED_UNICODE);
