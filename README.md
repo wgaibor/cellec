@@ -6,6 +6,9 @@ https://marvelapp.com/prototype/ich306a/screen/88071555
 ## Documentación de php  
 https://www.php.net/manual/en/mysqli-stmt.bind-param.php  
 
+## Paleta de colores  
+https://www.materialpalette.com/colors  
+
 ## Métodos del web services  
 
 ```

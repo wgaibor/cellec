@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         if(account != null) {
             Intent intent = new Intent(this, VentasActivity.class);
             startActivity(intent);
+            finish();
         }
     }
 

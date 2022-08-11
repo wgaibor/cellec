@@ -45,7 +45,7 @@ function obtenerProductos($arrayParametro) {
         $estado = $arrayParametro['estado'];
         $stmt->execute();
         $result = $stmt->get_result();
-        $arrayResponse = $result->fetch_all(MYSQLI_ASSOC);
+        $arrayResponse['data'] = $result->fetch_all(MYSQLI_ASSOC);
         return $arrayResponse;
     } catch (\Throwable $th) {
         echo 'guardarProducto()   '.$th->getMessage();

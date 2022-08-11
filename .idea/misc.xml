@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/drawable/ic_icon_app.xml" value="0.2775" />
+        <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/layout/activity_crear_producto.xml" value="0.22" />
+        <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/layout/activity_detalle.xml" value="0.21105072463768115" />
         <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/layout/activity_ventas.xml" value="0.21105072463768115" />
+        <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/layout/cellec_items.xml" value="0.33" />
+        <entry key="..\:/Lemas/ProgramacionMovil/_ProyectoTitulacion/Ronny/cellec/app/src/main/res/xml/network_security_config.xml" value="0.12552083333333333" />
       </map>
     </option>
   </component>

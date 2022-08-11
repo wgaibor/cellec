@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">CellecApp</string>
+    <string name="base_url">http://192.168.100.9:3005/</string>
+    <string name="celular">Name mobile</string>
+    <string name="crea_producto">Crear producto</string>
+    <string name="marca">marca</string>
+    <string name="modelo">modelo</string>
+    <string name="descripcion">descripcion</string>
+    <string name="precio">precio</string>
+    <string name="imagen">imagen</string>
+    <string name="guardar">guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="estadoActivo">Activo</string>
+    <string name="op_guardarProductos">guardarProductos</string>
+    <string name="comprar">Comprar</string>
 </resources>
